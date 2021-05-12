@@ -27,7 +27,7 @@ multiple functions if you like.
 
 def strstr(long_str, sub_str):
     '''
-    Check if a substring exists inside a string. If existes, returns the substring, if not returns -1.  
+    Check if a substring exists inside a string. If exists, returns the substring, if not returns -1.  
     
     Keyword arguments:
 
