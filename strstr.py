@@ -33,6 +33,8 @@ def strstr(long_str, sub_str):
 
     long_str -> string -- String to search in. \n
     sub_str -> string -- String to be searched.
+    \n
+    repo: https://github.com/fredbrowne/py_strstr
     '''
     string_size = len(long_str)
     sub_size = len(sub_str)
